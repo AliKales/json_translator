@@ -1,0 +1,123 @@
+{
+    "buttons": {
+        "yes": "Sí",
+        "no": "no",
+        "camera": "cámara",
+        "gallery": "galería",
+        "sendMessage": "enviar mensaje",
+        "avatar": "avatar",
+        "add": "agregar",
+        "save": "ahorrar",
+        "continue": "continuar",
+        "findFriend": "encontrar amigo",
+        "blockAndDelete": "bloquear y eliminar"
+    },
+    "message": {
+        "single": "mensaje",
+        "multiple": "mensajes",
+        "startChat": "iniciar el chat",
+        "pictureLoading": "cargando imagen",
+        "deneme": "denemek"
+    },
+    "errors": {
+        "error": "Error",
+        "already_logged_in": "¡Ya iniciado sesión!",
+        "messageSendingError": "¡Error al enviar el mensaje!"
+    },
+    "users": {
+        "user": "usuario",
+        "users": "usuarios",
+        "me": "a mí",
+        "you": "tú",
+        "partner": "pareja"
+    },
+    "pages": {
+        "chats": "charlas",
+        "friends": "amigos",
+        "profile": "perfil",
+        "feed": "alimentar",
+        "login": "acceso",
+        "register": "registro",
+        "userEdit": "edición de usuario"
+    },
+    "tags": {
+        "new": "nuevo",
+        "similarAge": "edad similar",
+        "location": "ubicación",
+        "day": "día",
+        "joinDay": "Fecha de Ingreso",
+        "age": "edad",
+        "languages": "idiomas",
+        "hobbies": "aficiones",
+        "occupation": "ocupación"
+    },
+    "settings": {
+        "settings": "ajustes",
+        "language": "idioma",
+        "logout": "cerrar sesión",
+        "deleteYourAccount": "eliminar tu cuenta"
+    },
+    "profileActions": {
+        "wantLogout": "¿Quieres cerrar sesión?"
+    },
+    "auth": {
+        "email": "correo electrónico",
+        "password": "contraseña",
+        "confirmPassword": "confirmar Contraseña",
+        "enterEmail": "¡Por favor, introduzca su dirección de correo electrónico!",
+        "enterPassword": "¡Por favor, introduzca su contraseña!",
+        "atLeast6": "¡La contraseña debe tener al menos 6 caracteres!",
+        "passwordsMatch": "¡Las contraseñas deben coincidir!"
+    },
+    "date": {
+        "day": "día",
+        "month": "mes",
+        "year": "año"
+    },
+    "user": {
+        "name": "nombre",
+        "aboutMe": "Acerca de mí",
+        "gender": "género"
+    },
+    "warnings": {
+        "maximum": "máximo",
+        "setAName": "¡Por favor, establezca un nombre!",
+        "setAValidDate": "Por favor establezca una fecha válida",
+        "setGender": "Por favor establece tu género",
+        "pickALanguage": "Por favor elige un idioma",
+        "blockedYou": "¡Este usuario te bloqueó!",
+        "waitBeforeSendMessages": "¡Debes esperar hasta que tu pareja responda!",
+        "sureToDeleteYourAcc": "¿Realmente quieres eliminar tu cuenta? Una vez que elimines tu cuenta, ¡no podrás recuperarla!",
+        "yourAccDeleted": "¡Tu cuenta ha sido eliminada! Te extrañaremos :(",
+        "errorTryAgain": "¡Error! Inténtalo de nuevo. Si el error continúa, ¡pida ayuda a Hablo Talk!",
+        "newVersionAvailable": "¡Nueva versión disponible! ¡Por favor actualice!",
+        "appNotAvailable": "¡Hablo Talk no está disponible ahora! Por favor, inténtelo de nuevo más tarde",
+        "youBanned": "¡Estás excluido de Hablo Talk!"
+    },
+    "languageLevels": {
+        "languageLevels": "niveles de idioma",
+        "0": "principiante",
+        "1": "intermedio",
+        "2": "avanzado",
+        "3": "fluido"
+    },
+    "languageDescriptions": {
+        "languageDescriptions": "descripciones de idiomas",
+        "0": "Comprensión básica, capaz de manejar frases simples e interacciones comunes.",
+        "1": "Dominio moderado, capaz de entablar conversaciones más complejas.",
+        "2": "Alto dominio, experto en discusiones profundas y textos complejos.",
+        "3": "Dominio del idioma, capaz de comunicarse sin esfuerzo en cualquier contexto."
+    },
+    "imageCropper": {
+        "image": "imagen"
+    },
+    "authErrors": {
+        "user_not_found": "¡Combinación incorrecta de correo electrónico y contraseña!",
+        "wrong_password": "¡Combinación incorrecta de correo electrónico y contraseña!",
+        "invalid_email": "la dirección de correo electrónico está mal formateada",
+        "email_already_in_use": "el correo electrónico está registrado por otra persona"
+    },
+    "male": "masculino",
+    "female": "femenino",
+    "other": "otro"
+}

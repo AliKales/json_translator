@@ -4,6 +4,28 @@ from googletrans import Translator
 
 import utils
 
+def translate_json(json_file, target_language):
+    # Load the JSON file
+    with open(json_file, 'r',encoding='utf-8') as f:
+        data = json.load(f)
+    
+    # Initialize the translator
+    translator = Translator()
+    
+    # Translate each value in the JSON
+    for key, value in data.items():
+        if isinstance(value, dict):
+            for k, v in value.items():
+                translated_text = translator.translate(v, dest=target_language).text
+                data[key][k] = translated_text
+        else:
+            translated_text = translator.translate(value, dest=target_language).text
+            data[key] = translated_text
+    
+    # Write translated data to a new JSON file
+    with open('jsons/'+target_language+".json", 'w',encoding='utf-8') as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
+
 
 def translate_and_create_json(language: str, orj_json_dir: str):
     print(f"Translating to {language}")
@@ -20,7 +42,7 @@ def translate_and_create_json(language: str, orj_json_dir: str):
 
     dir = utils.get_directory(orj_json_dir)
 
-    newFile = dir+"\\"+newFile
+    newFile = dir+"/"+newFile
 
     unique_json = {}
 
@@ -41,7 +63,7 @@ def translate_and_create_json(language: str, orj_json_dir: str):
         try:
             translation = translator.translate(value, dest=language).text
         except Exception as e:
-            translation = value + "ERRORRRRR"
+            translation = value
         unique_json[key] = translation
 
     if utils.check_if_file_exists(newFile):

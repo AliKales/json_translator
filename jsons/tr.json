@@ -1,0 +1,122 @@
+{
+    "buttons": {
+        "yes": "Evet",
+        "no": "HAYIR",
+        "camera": "kamera",
+        "gallery": "galeri",
+        "sendMessage": "mesaj gönder",
+        "avatar": "avatar",
+        "add": "eklemek",
+        "save": "kaydetmek",
+        "continue": "devam etmek",
+        "findFriend": "arkadaş bul",
+        "blockAndDelete": "engelle ve sil"
+    },
+    "message": {
+        "single": "İleti",
+        "multiple": "mesajlar",
+        "startChat": "sohbeti başlat",
+        "pictureLoading": "resim yükleniyor"
+    },
+    "errors": {
+        "error": "Hata",
+        "already_logged_in": "Zaten giriş yapılmış!",
+        "messageSendingError": "Mesaj gönderilirken hata oluştu!"
+    },
+    "users": {
+        "user": "kullanıcı",
+        "users": "kullanıcılar",
+        "me": "Ben",
+        "you": "Sen",
+        "partner": "ortak"
+    },
+    "pages": {
+        "chats": "sohbetler",
+        "friends": "Arkadaşlar",
+        "profile": "profil",
+        "feed": "beslemek",
+        "login": "giriş yapmak",
+        "register": "kayıt olmak",
+        "userEdit": "kullanıcı düzenlemesi"
+    },
+    "tags": {
+        "new": "yeni",
+        "similarAge": "benzer yaş",
+        "location": "konum",
+        "day": "gün",
+        "joinDay": "katılma tarihi",
+        "age": "yaş",
+        "languages": "Diller",
+        "hobbies": "Hobiler",
+        "occupation": "meslek"
+    },
+    "settings": {
+        "settings": "ayarlar",
+        "language": "dil",
+        "logout": "çıkış Yap",
+        "deleteYourAccount": "Hesabını sil"
+    },
+    "profileActions": {
+        "wantLogout": "Oturumu kapatmak istiyor musunuz?"
+    },
+    "auth": {
+        "email": "e-posta",
+        "password": "şifre",
+        "confirmPassword": "Şifreyi Onayla",
+        "enterEmail": "lütfen e-mail adresinizi giriniz!",
+        "enterPassword": "Şifrenizi giriniz Lütfen!",
+        "atLeast6": "Şifre en az 6 karakter olmalıdır!",
+        "passwordsMatch": "Şifreler aynı olmalıdır!"
+    },
+    "date": {
+        "day": "gün",
+        "month": "ay",
+        "year": "yıl"
+    },
+    "user": {
+        "name": "isim",
+        "aboutMe": "benim hakkımda",
+        "gender": "cinsiyet"
+    },
+    "warnings": {
+        "maximum": "maksimum",
+        "setAName": "Lütfen bir isim belirleyin!",
+        "setAValidDate": "Lütfen geçerli bir tarih belirleyin",
+        "setGender": "Lütfen cinsiyetinizi belirtin",
+        "pickALanguage": "Lütfen bir dil seçin",
+        "blockedYou": "Bu kullanıcı sizi engelledi!",
+        "waitBeforeSendMessages": "Partneriniz cevap verene kadar beklemeniz gerekir!",
+        "sureToDeleteYourAcc": "Gerçekten hesabınızı silmek istiyor musunuz? Hesabınızı sildikten sonra geri alamazsınız!",
+        "yourAccDeleted": "Hesabınız silinmiştir! Seni özleyeceğiz :(",
+        "errorTryAgain": "Hata! Lütfen tekrar deneyin. Hata devam ederse lütfen Hablo Talk'tan yardım isteyin!",
+        "newVersionAvailable": "Yeni sürüm mevcut! Lütfen güncelle!",
+        "appNotAvailable": "Hablo Talk şu anda kullanılamıyor! Lütfen daha sonra tekrar deneyiniz",
+        "youBanned": "Hablo Talk'tan yasaklandınız!"
+    },
+    "languageLevels": {
+        "languageLevels": "dil seviyeleri",
+        "0": "acemi",
+        "1": "orta seviye",
+        "2": "gelişmiş",
+        "3": "akıcı"
+    },
+    "languageDescriptions": {
+        "languageDescriptions": "dil açıklamaları",
+        "0": "Temel anlayış, basit ifadeleri ve ortak etkileşimleri idare edebilme.",
+        "1": "Orta düzeyde komuta, daha karmaşık konuşmalara girişme yeteneğine sahip.",
+        "2": "Yüksek yeterlilik, derinlemesine tartışmalarda ve karmaşık metinlerde ustalık.",
+        "3": "Dile hakimiyet, her bağlamda zahmetsizce iletişim kurabilme."
+    },
+    "imageCropper": {
+        "image": "resim"
+    },
+    "authErrors": {
+        "user_not_found": "yanlış e-posta ve şifre kombinasyonu!",
+        "wrong_password": "yanlış e-posta ve şifre kombinasyonu!",
+        "invalid_email": "e-posta adresi kötü biçimlendirilmiş",
+        "email_already_in_use": "e-posta başka biri tarafından kaydedilmiş"
+    },
+    "male": "erkek",
+    "female": "kadın",
+    "other": "diğer"
+}

@@ -1,0 +1,122 @@
+{
+    "buttons": {
+        "yes": "はい",
+        "no": "いいえ",
+        "camera": "カメラ",
+        "gallery": "ギャラリー",
+        "sendMessage": "メッセージを送る",
+        "avatar": "アバター",
+        "add": "追加",
+        "save": "保存",
+        "continue": "続く",
+        "findFriend": "友人を見つけます",
+        "blockAndDelete": "ブロック＆削除"
+    },
+    "message": {
+        "single": "メッセージ",
+        "multiple": "メッセージ",
+        "startChat": "チャットを開始する",
+        "pictureLoading": "画像の読み込み"
+    },
+    "errors": {
+        "error": "エラー",
+        "already_logged_in": "ログイン済み！",
+        "messageSendingError": "メッセージ送信エラー!"
+    },
+    "users": {
+        "user": "ユーザー",
+        "users": "ユーザー",
+        "me": "自分",
+        "you": "あなた",
+        "partner": "相棒"
+    },
+    "pages": {
+        "chats": "チャット",
+        "friends": "友達",
+        "profile": "プロフィール",
+        "feed": "餌",
+        "login": "ログイン",
+        "register": "登録する",
+        "userEdit": "ユーザー編集"
+    },
+    "tags": {
+        "new": "新しい",
+        "similarAge": "同じような年齢",
+        "location": "位置",
+        "day": "日",
+        "joinDay": "入社日",
+        "age": "年",
+        "languages": "言語",
+        "hobbies": "趣味",
+        "occupation": "職業"
+    },
+    "settings": {
+        "settings": "設定",
+        "language": "言語",
+        "logout": "ログアウト",
+        "deleteYourAccount": "アカウントを削除する"
+    },
+    "profileActions": {
+        "wantLogout": "ログアウトしますか?"
+    },
+    "auth": {
+        "email": "Eメール",
+        "password": "パスワード",
+        "confirmPassword": "パスワードを認証する",
+        "enterEmail": "メールアドレスを入力してください！",
+        "enterPassword": "パスワードを入力してください！",
+        "atLeast6": "パスワードは 6 文字以上にする必要があります。",
+        "passwordsMatch": "パスワードが一致する必要があります！"
+    },
+    "date": {
+        "day": "日",
+        "month": "月",
+        "year": "年"
+    },
+    "user": {
+        "name": "名前",
+        "aboutMe": "私について",
+        "gender": "性別"
+    },
+    "warnings": {
+        "maximum": "最大",
+        "setAName": "名前を設定してください！",
+        "setAValidDate": "有効な日付を設定してください",
+        "setGender": "性別を設定してください",
+        "pickALanguage": "言語を選択してください",
+        "blockedYou": "このユーザーがあなたをブロックしました。",
+        "waitBeforeSendMessages": "パートナーが返信するまで待つ必要があります。",
+        "sureToDeleteYourAcc": "本当にアカウントを削除してもよろしいですか?アカウントを削除すると、元に戻すことはできません。",
+        "yourAccDeleted": "あなたのアカウントは削除されました!あなたがいなくて寂しいです:(",
+        "errorTryAgain": "エラー！もう一度試してください。エラーが続く場合は、Hablo Talk に助けを求めてください。",
+        "newVersionAvailable": "新しいバージョンが利用可能になりました!更新してください！",
+        "appNotAvailable": "現在、Hablo Talk は利用できません。後でもう一度試してください",
+        "youBanned": "あなたは Hablo Talk から禁止されています!"
+    },
+    "languageLevels": {
+        "languageLevels": "言語レベル",
+        "0": "初心者",
+        "1": "中級",
+        "2": "高度な",
+        "3": "流暢"
+    },
+    "languageDescriptions": {
+        "languageDescriptions": "言語の説明",
+        "0": "基本的な理解があり、簡単なフレーズや一般的なやり取りを処理できる。",
+        "1": "中程度の指揮能力があり、より複雑な会話を行うことができます。",
+        "2": "熟練度が高く、詳細な議論や複雑な文章に熟達している。",
+        "3": "言語を習得し、どんな状況でも難なくコミュニケーションできる。"
+    },
+    "imageCropper": {
+        "image": "画像"
+    },
+    "authErrors": {
+        "user_not_found": "メールアドレスとパスワードの組み合わせが間違っています!",
+        "wrong_password": "メールアドレスとパスワードの組み合わせが間違っています!",
+        "invalid_email": "メールアドレスの形式が正しくありません",
+        "email_already_in_use": "メールアドレスが他人によって登録されている"
+    },
+    "male": "男",
+    "female": "女性",
+    "other": "他の"
+}

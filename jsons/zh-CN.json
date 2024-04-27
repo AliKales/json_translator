@@ -1,0 +1,122 @@
+{
+    "buttons": {
+        "yes": "是的",
+        "no": "不",
+        "camera": "相机",
+        "gallery": "画廊",
+        "sendMessage": "发信息",
+        "avatar": "头像",
+        "add": "添加",
+        "save": "节省",
+        "continue": "继续",
+        "findFriend": "找朋友",
+        "blockAndDelete": "阻止和删除"
+    },
+    "message": {
+        "single": "信息",
+        "multiple": "消息",
+        "startChat": "开始聊天",
+        "pictureLoading": "图片加载"
+    },
+    "errors": {
+        "error": "错误",
+        "already_logged_in": "已经登录！",
+        "messageSendingError": "发送消息时出错！"
+    },
+    "users": {
+        "user": "用户",
+        "users": "用户",
+        "me": "我",
+        "you": "你",
+        "partner": "伙伴"
+    },
+    "pages": {
+        "chats": "聊天",
+        "friends": "朋友们",
+        "profile": "轮廓",
+        "feed": "喂养",
+        "login": "登录",
+        "register": "登记",
+        "userEdit": "用户编辑"
+    },
+    "tags": {
+        "new": "新的",
+        "similarAge": "年龄相仿",
+        "location": "地点",
+        "day": "天",
+        "joinDay": "加入日期",
+        "age": "年龄",
+        "languages": "语言",
+        "hobbies": "爱好",
+        "occupation": "职业"
+    },
+    "settings": {
+        "settings": "设置",
+        "language": "语言",
+        "logout": "登出",
+        "deleteYourAccount": "删除你的帐户"
+    },
+    "profileActions": {
+        "wantLogout": "您想退出吗？"
+    },
+    "auth": {
+        "email": "电子邮件",
+        "password": "密码",
+        "confirmPassword": "确认密码",
+        "enterEmail": "请输入您的电子邮件地址！",
+        "enterPassword": "请输入您的密码！",
+        "atLeast6": "密码应至少为 6 个字符！",
+        "passwordsMatch": "密码必须匹配！"
+    },
+    "date": {
+        "day": "天",
+        "month": "月",
+        "year": "年"
+    },
+    "user": {
+        "name": "姓名",
+        "aboutMe": "关于我",
+        "gender": "性别"
+    },
+    "warnings": {
+        "maximum": "最大限度",
+        "setAName": "请设定名称！",
+        "setAValidDate": "请设置有效日期",
+        "setGender": "请设定您的性别",
+        "pickALanguage": "请选择语言",
+        "blockedYou": "该用户屏蔽了您！",
+        "waitBeforeSendMessages": "您必须等待您的伴侣回复！",
+        "sureToDeleteYourAcc": "您真的要删除您的帐户吗？帐户一旦删除就无法恢复！",
+        "yourAccDeleted": "您的帐户已被删除！我们会想你 ：（",
+        "errorTryAgain": "错误！请再试一次。如果错误仍然存​​在，请向 Hablo Talk 寻求帮助！",
+        "newVersionAvailable": "新版本上线！请更新！",
+        "appNotAvailable": "Hablo Talk 现在不可用！请稍后再试",
+        "youBanned": "您被禁止参加 Hablo Talk！"
+    },
+    "languageLevels": {
+        "languageLevels": "语言水平",
+        "0": "新手",
+        "1": "中间的",
+        "2": "先进的",
+        "3": "流利"
+    },
+    "languageDescriptions": {
+        "languageDescriptions": "语言描述",
+        "0": "有基本的理解，能够处理简单的短语和常见的交互。",
+        "1": "指挥能力适中，能够进行更复杂的对话。",
+        "2": "熟练程度高，擅长深入讨论和复杂文本。",
+        "3": "掌握语言，能够在任何情况下轻松交流。"
+    },
+    "imageCropper": {
+        "image": "图像"
+    },
+    "authErrors": {
+        "user_not_found": "电子邮件和密码组合错误！",
+        "wrong_password": "电子邮件和密码组合错误！",
+        "invalid_email": "电子邮件地址格式错误",
+        "email_already_in_use": "该电子邮件已被其他人注册"
+    },
+    "male": "男性",
+    "female": "女性",
+    "other": "其他"
+}
