@@ -19,6 +19,9 @@ for lang in translation_langs:
     for key in keys:
         for key2 in data[key].keys():
             val = data[key][key2]
+            if key not in enData:
+                enData[key] = {}
+
             if lang == "en":
                 enData[key][key2] = val
             else:                
